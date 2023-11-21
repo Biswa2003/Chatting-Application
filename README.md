@@ -1,2 +1,2 @@
 # Chatting-Application
-The application is a desktop based application
+The application is a desktop based application.
